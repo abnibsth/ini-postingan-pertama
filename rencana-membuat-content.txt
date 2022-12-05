@@ -3,3 +3,5 @@ rencana kontent projek
 -webdevelover
 -bikin web
 -bikin animasi
+-javascrip
+-php
